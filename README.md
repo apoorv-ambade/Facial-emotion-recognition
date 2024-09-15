@@ -1,4 +1,4 @@
-# machine-learning
+# README
 
 This repository demonstrates a facial emotion recognition system leveraging Convolutional Neural Networks (CNNs) to classify facial expressions.
 
